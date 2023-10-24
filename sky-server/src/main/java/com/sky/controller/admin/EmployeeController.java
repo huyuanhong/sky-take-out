@@ -1,4 +1,4 @@
-package com.sky.interceptor.admin;
+package com.sky.controller.admin;
 
 import com.sky.constant.JwtClaimsConstant;
 import com.sky.dto.EmployeeDTO;
