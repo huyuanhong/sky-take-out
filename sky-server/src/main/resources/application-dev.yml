@@ -7,3 +7,8 @@ sky:
     username: root
     password: 123456
     use-ping-method: false
+  alioss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    access-key-id: LTAI5tMvViQUUXbBTDTDsT11
+    access-key-secret: oRBfrXm2JpydWF0SKeN5XWFFXu3w4Q
+    bucket-name: hyh-101
