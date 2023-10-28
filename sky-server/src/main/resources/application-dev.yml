@@ -12,3 +12,7 @@ sky:
     access-key-id: LTAI5tMvViQUUXbBTDTDsT11
     access-key-secret: oRBfrXm2JpydWF0SKeN5XWFFXu3w4Q
     bucket-name: hyh-101
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
